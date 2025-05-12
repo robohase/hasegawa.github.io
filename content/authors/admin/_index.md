@@ -39,7 +39,7 @@ education:
   - area: 修士(機械情報・制御工学コース)
     institution: 長岡技術科学大学 大学院 機械工学分野
     date_start: 2024-04-01
-    date_end: 2027-3-31(卒業予定)
+    date_end: 2027-03-31(卒業予定)
     summary: |      
       表彰:
       - ロボカップジャパンオープン2024 レスキュー実機リーグ 3位
@@ -49,7 +49,7 @@ education:
   - area: 学士(機械情報・制御工学コース)
     institution: 長岡技術科学大学 機械工学分野
     date_start: 2022-04-01
-    date_end: 2024-3-31
+    date_end: 2024-03-31
     summary: |      
       表彰:
       - ロボカップジャパンオープン2022 レスキュー実機リーグ 2位
@@ -60,7 +60,7 @@ education:
   - area: 準学士
     institution: 長岡工業高等専門学校　機械工学科
     date_start: 2017-04-01
-    date_end: 2022-3-31
+    date_end: 2022-03-31
     summary: |      
       表彰:
       - ロボカップサッカージュニア・ジャパンオープン2019 和歌山　6位
@@ -82,7 +82,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-09-01
-    date_end: 2024-1-31
+    date_end: 2024-01-31
     summary: |
       大学の実務訓練プログラムの一貫としてベトナム・ホーチミンに拠点を置く日系企業YKK社のベトナムの開発・製造拠点でインターンを実施。
       設備開発課にて工場内の装置の改善業務に取り組む。海外拠点で働く日本人エンジニアと現地のワーカーと共に世界で戦う為の多角的な視野を身につけた。
@@ -91,7 +91,7 @@ work:
     company_url: https://www.nagaoka-kanagata.co.jp/
     company_logo: ''
     date_start: 2022-09-01
-    date_end: 2024-04-01
+    date_end: 2023-06-01
     summary: |
       長岡市内でプラスチック射出成形用の金型製造から成形物の量産を行う株式会社長岡金型で生産管理向けのIoT機器の試作開発に従事した。
       
