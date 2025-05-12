@@ -1,124 +1,125 @@
 ---
 # Display name
-title: 吳健雄
+title: 長谷川 晴基
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Haruki Hasegawa
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: 晴基
+last_name: 長谷川
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🏔️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: 長岡技術科学大学 大学院 機械工学分野所属
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: 長岡技術科学大学
+    url: https://www.nagaokaut.ac.jp/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 's223060@stn.nagaokaut.ac.jp'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/robohase
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/haruki-hasegawa-b8694516b/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: 修士(機械情報・制御工学コース)
+    institution: 長岡技術科学大学 大学院 機械工学分野
+    date_start: 2024-04-01
+    date_end: 2027-3-31(卒業予定)
+    summary: |      
+      表彰:
+      - ロボカップジャパンオープン2024 レスキュー実機リーグ 3位
+      - World Robot Summit Harsh Environmemt F-REI Challenge Pre Competition 3位
+      - ロボカップジャパンオープン2025 レスキュー実機リーグ 3位
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: 学士(機械情報・制御工学コース)
+    institution: 長岡技術科学大学 機械工学分野
+    date_start: 2022-04-01
+    date_end: 2024-3-31
+    summary: |      
+      表彰:
+      - ロボカップジャパンオープン2022 レスキュー実機リーグ 2位
+      - ロボカップジャパンオープン2023 レスキュー実機リーグ 3位
+      論文:
+      - [遠隔操縦型移動作業ロボットにおけるROS1-ROS2移行の課題の実験的検討-ロボカップタスクを利用した性能評価](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402278524171979)
+
+  - area: 準学士
+    institution: 長岡工業高等専門学校　機械工学科
+    date_start: 2017-04-01
+    date_end: 2022-3-31
+    summary: |      
+      表彰:
+      - ロボカップサッカージュニア・ジャパンオープン2019 和歌山　6位
+      - NHK高専ロボコン2020全国大会 マブチモーター株式会社特別賞
+      - 機械工学科卒業発表 優秀賞
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: ソフトウェア開発主任
+    company_name: 株式会社FieldWorks
+    company_url: https://www.fieldwork-s.com/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-03-01
+    date_end: 2025-03-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      長岡市内に拠点を置く草刈りロボットの開発・製造を行う株式会社FieldWorksにてソフトウェア開発主任として従事する。
+      カメラを用いた自動草刈りロボットのソフトウェアをROS2を用いて開発し、農家や企業への納入実績を作った。
+  - position: インターン生
+    company_name: YKK Vietnam Co., Ltd.
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2024-1-31
+    summary: |
+      大学の実務訓練プログラムの一貫としてベトナム・ホーチミンに拠点を置く日系企業YKK社のベトナムの開発・製造拠点でインターンを実施。
+      設備開発課にて工場内の装置の改善業務に取り組む。海外拠点で働く日本人エンジニアと現地のワーカーと共に世界で戦う為の多角的な視野を身につけた。
+  - position: アルバイト
+    company_name: 株式会社長岡金型
+    company_url: https://www.nagaoka-kanagata.co.jp/
+    company_logo: ''
+    date_start: 2022-09-01
+    date_end: 2024-04-01
+    summary: |
+      長岡市内でプラスチック射出成形用の金型製造から成形物の量産を行う株式会社長岡金型で生産管理向けのIoT機器の試作開発に従事した。
+      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 開発スキル
     items:
+      - name: ROS 2
+        description: Linux用のロボット制御ミドルウェア
+        percent: 90
+        icon: ''
+      - name: C++
+        description: ''
+        percent: 60
+        icon: ''
       - name: Python
         description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
+        percent: 60
+        icon: ''
+
+  - name: 趣味
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: 海外旅行
         description: ''
-        percent: 60
+        percent: ''
         icon: person-simple-walk
       - name: Cats
         description: ''
@@ -168,5 +169,5 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+長岡技術科学大学修士１年<br>
+大学では災害時に調査・探索を目的としたレスキューロボットのソフトウェア開発を行い、そのスキルを活かして学生時代に２社で実務を行った。<br>
